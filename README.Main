@@ -1,0 +1,21 @@
+- 👋 Hi, I’m @YamsaniBhavana
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+YamsaniBhavana/YamsaniBhavana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Class Main
+{
+Public static void main (String args[])
+{
+System.out.println("- 👋 Hi, I’m @YamsaniBhavana");
+System.out.println("- 👀 I’m interested in coding");
+System.out.println("- 🌱 I’m currently learning Btech");
+System.out.println("- 💞️ I’m looking to collaborate on GitHub");
+System.out.println("- 📫 How to reach me you can reach me through my mail");
+}
+}
